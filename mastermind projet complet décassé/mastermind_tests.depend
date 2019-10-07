@@ -1,0 +1,88 @@
+# depslib dependency file v1.0
+1553504522 source:u:\documents\prog\mastermind\mastermind_tests\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1553500017 source:u:\documents\prog\mastermind\mastermind_tests\pvm_pc.cpp
+	"pvm_pc.h"
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1552292091 u:\documents\prog\mastermind\mastermind_tests\pvm_pc.h
+
+1553500283 source:u:\documents\prog\mastermind\mastermind_tests\pvm_mc.cpp
+	<iostream>
+	"pvm_mc.h"
+
+1552292640 u:\documents\prog\mastermind\mastermind_tests\pvm_mc.h
+
+1553500017 u:\documents\prog\mastermind\mastermind_tests\pvm_pc.cpp
+	"pvm_pc.h"
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1553501071 u:\documents\prog\mastermind\mastermind_tests\pvm_mc.cpp
+	<iostream>
+	"pvm_mc.h"
+
+1556523477 source:u:\documents\prog\mastermind\mastermind_tests_nils\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1557062449 source:c:\users\guillaume\desktop\programmation\projet isn\mastermind_tests_nils\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1557064067 source:c:\users\guillaume\desktop\programmation\projet isn\mastermind projet complet\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1557127581 source:u:\documents\prog\mastermind projet complet\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1557129427 source:u:\documents\prog\mastermind projet complet cassé\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1557137263 source:u:\documents\prog\mastermind projet complet décassé\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1557140910 source:e:\mastermind projet complet décassé\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1565357574 source:c:\users\user\desktop\pc\mastermind projet complet décassé\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
