@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1565361144 source:c:\users\user\desktop\prog perso\random r6\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
